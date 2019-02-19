@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="Test1.Question"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Test1"
+             mc:Ignorable="d" 
+               d:DesignWidth="800">
+
+    
+        <StackPanel  Margin="10 20 10 10">
+            <TextBlock x:Name="textblock" Text="{Binding Textvalue}" FontSize="24" FontWeight="Bold" Margin="0 0 0 10" TextWrapping="Wrap"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                
+                <RadioButton x:Name="Answer_1" FontSize = "20"  Content="Zdecydowanie zgadzam się" Grid.Column="0" Checked="Answer_1_Checked" Margin="0 14 0 0"/>
+                <RadioButton x:Name="Answer_2" FontSize = "20" Content="Raczej zgadzam się"  Grid.Column="1" Checked="Answer_2_Checked" Margin="10 14 10 0 "/>
+                <RadioButton x:Name="Answer_3" FontSize = "20" Content="Raczej nie zgadzam się"  Grid.Column="2" Checked="Answer_3_Checked" Margin="10 14 10 0 "/>
+                <RadioButton x:Name="Answer_4" FontSize = "20" Content="Zdecydowanie nie zgadzam się"  Grid.Column="3" Checked="Answer_4_Checked" Margin="0 14 0 0"/>
+            </Grid>
+        </StackPanel>
+    
+    
+</UserControl>

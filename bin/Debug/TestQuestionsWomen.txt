@@ -1,0 +1,172 @@
+﻿57
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+SPP
+2. Donec eget viverra eros, in consequat dolor. 
+True
+SPH
+3. Duis pretium vehicula fringilla. Sed convallis lacus id magna posuere lobortis.
+True
+SPP
+4. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+SPH
+5. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+RPN
+6. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+SPH
+7. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+RPN
+8. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+SPP
+9. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+SPH
+10. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+SPP
+11. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+SPH
+12. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+RPN
+13. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+RPN
+14. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False
+SPP
+15. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+RPN
+16. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False
+SPP
+17. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+RPN
+18. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+SPP
+19. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False
+RPN
+20. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+RPN
+21. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+SPP
+22. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+RPN
+23. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+SPH
+24. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False
+RPN
+25. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+SPH
+26. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True 
+RPN
+27. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+SPH
+28. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True 
+RPN
+29. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+SPP
+30. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True 
+SPH
+31. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+RPN
+32. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True 
+SPP
+33. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False 
+SPH
+34. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True 
+SPP
+35. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True 
+RPN
+36. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+SPH
+37. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+RPN
+38. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True 
+SPP
+39. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True 
+SPH
+40. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False 
+SPP
+41. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False
+RPN
+42. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False
+SPH
+43. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False
+SPP
+44. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+SPP
+45. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False
+SPH
+46. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False
+RPN
+47. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False
+RPN
+48. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+SPH
+49. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+SPP
+50. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+SPP
+51. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+False
+SPP
+52. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+SPH
+53. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+SPH
+54. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True
+SPP
+55. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+False
+SPH
+56. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna 
+True
+RPN
+57. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum iaculis magna  
+True 
+SPH
